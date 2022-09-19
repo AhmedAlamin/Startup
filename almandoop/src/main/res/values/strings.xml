@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Almandoop</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">في السريع</string>
+    <string name="slide_1_desc">أسهل وأمن طريقة لشحن البضائع من مكان لمكان داخل مصر  بنظام الدفعي المقدم</string>
+
+    <string name="slide_2_title">أسرع طريقة للشحن</string>
+    <string name="slide_2_desc">اطلب مندوب لنقل بضائعك الان من مكان لمكان بسهوله ويسر مع وجود خاصية التتبع للطرود لمعرفة مكانها بالظبط</string>
+
+    <string name="slide_3_title">افضل الاسعار والخصومات</string>
+    <string name="slide_3_desc">افضل الاسعار علي كل خدمات الشحن من كافة الاماكن</string>
+
+    <string name="slide_4_title">تغطية واسعه</string>
+    <string name="slide_4_desc">احجز الان ليصلك مندوبنا في اسرع وقت ممكن وتمتع بخاصية التتبع للشحنه من تليفونك</string>
+
+    <!--- Internet dialog -->
+    <string name="internet_title">Enable Internet Connection</string>
+    <string name="internet_message">To use this application you must be connected to the Internet</string>
+    <string name="interner_confirm">Data settings</string>
+    <string name="time">Time</string>
+    <string name="status">Status:</string>
+    <string name="button_reservation">Reservation</string>
+    <string name="orderNumber">Order Num</string>
+
+
+</resources>
